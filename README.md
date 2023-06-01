@@ -1,3 +1,8 @@
+# NOTE
+
+This is a fork of the [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) repository. The original README is below with some minor adjustments for ease of access.
+
+
 # Stable Diffusion
 *Stable Diffusion was made possible thanks to a collaboration with [Stability AI](https://stability.ai/) and [Runway](https://runwayml.com/) and builds upon our previous work:*
 
@@ -54,6 +59,8 @@ The weights are available via [the CompVis organization at Hugging Face](https:/
 [The CreativeML OpenRAIL M license](LICENSE) is an [Open RAIL M license](https://www.licenses.ai/blog/2022/8/18/naming-convention-of-responsible-ai-licenses), adapted from the work that [BigScience](https://bigscience.huggingface.co/) and [the RAIL Initiative](https://www.licenses.ai/) are jointly carrying in the area of responsible AI licensing. See also [the article about the BLOOM Open RAIL license](https://bigscience.huggingface.co/blog/the-bigscience-rail-license) on which our license is based.
 
 ### Weights
+
+Download the weights here: https://huggingface.co/CompVis/stable-diffusion-v-1-4-original/resolve/main/sd-v1-4.ckpt
 
 We currently provide the following checkpoints:
 
