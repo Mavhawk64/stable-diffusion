@@ -1,0 +1,8 @@
+# all image formats
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# model
+*.ckpt
